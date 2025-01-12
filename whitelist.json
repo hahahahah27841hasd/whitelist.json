@@ -1,5 +1,6 @@
 {
-  "hwids": [
-    "9b187fe1-194b-4267-b923-252e451f544c"
-  ]
+    "whitelisted_users": [
+        "ExampleUser123",
+        "AnotherUser456"
+    ]
 }
