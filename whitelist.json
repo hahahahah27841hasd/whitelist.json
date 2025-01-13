@@ -1,11 +1,6 @@
-{
-  "whitelisted_users": [
-    "ExampleUser123",
-    "AnotherUser456",
-    "Louis_quixxyyy",
-    "louis_quixxyyy",
-    "7eleven3h",
-    "Nova_tester",
-    "dasdas231132"
-  ]
-}
+{ 
+  "whitelisted": [
+    "Test1",
+    "Test2"
+    
+  ],
