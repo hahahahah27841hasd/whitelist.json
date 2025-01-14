@@ -1,15 +1,4 @@
 {
-    "whitelistedPlayers": [
-        "7eleven3h"
-    ],
-    "premiumUsers": [],
-    "whitelistDates": {
-        "7eleven3h": "2025-01-14T15:49:49.910Z"
-    },
-    "whitelistDurations": {
-        "7eleven3h": 1
-    },
-    "whitelistAddedBy": {
-        "7eleven3h": "7eleven.nex"
-    }
+  "whitelisted": [],
+  "premium": []
 }
