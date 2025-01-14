@@ -1,5 +1,15 @@
 {
-    "whitelisted": [],
-    "premium": [],
-    "whitelistDates": {}
+    "whitelistedPlayers": [
+        "7eleven3h"
+    ],
+    "premiumUsers": [],
+    "whitelistDates": {
+        "7eleven3h": "2025-01-14T15:38:52.422Z"
+    },
+    "whitelistDurations": {
+        "7eleven3h": 2
+    },
+    "whitelistAddedBy": {
+        "7eleven3h": "7eleven.nex"
+    }
 }
