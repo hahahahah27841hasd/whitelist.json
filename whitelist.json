@@ -1,7 +1,11 @@
 {
     "whitelisted": [
         "7eleven4h",
-        "dasdas233127"
+        "dasdas233127",
+        "fwedasfs"
     ],
-    "premium": []
+    "premium": [],
+    "expirations": {
+        "fwedasfs": 1737152325949
+    }
 }
