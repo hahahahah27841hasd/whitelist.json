@@ -1,6 +1,36 @@
 {
-    "whitelisted": [],
+    "whitelisted": [
+        "dasdas233127",
+        "7eleven4h",
+        "7eleven5h",
+        "7eleven7h",
+        "ahahahh12e",
+        "9b187fe1-194b-4267-b923-252e451f544c",
+        "4DE82F4A-5F4F-4C34-83F3-798E5F5528B6",
+        "984FBDCF-41BF-457C-9A64-32A2BE09E78B",
+        "b634bf93-d1d6-47f6-8a62-37db216d8709",
+        "5E80E921-AB61-4D06-9C6F-2BE1A396B97D",
+        "053FE43C-4CB1-4F79-BC8E-B4E84CFBE8C1",
+        "e212dc2f-a3b0-4681-b278-8717d156916c"
+    ],
     "premium": [],
-    "expirations": {},
-    "whitelistedUsers": {}
+    "expirations": {
+        "7eleven4h": 1737236587678,
+        "7eleven5h": 1737205304227,
+        "7eleven7h": 1738247802095,
+        "ahahahh12e": 1738251465864,
+        "9b187fe1-194b-4267-b923-252e451f544c": 1738677302099,
+        "4DE82F4A-5F4F-4C34-83F3-798E5F5528B6": 1738680422043,
+        "984FBDCF-41BF-457C-9A64-32A2BE09E78B": 1738680562283,
+        "b634bf93-d1d6-47f6-8a62-37db216d8709": 1738680732186,
+        "5E80E921-AB61-4D06-9C6F-2BE1A396B97D": 1738681839302,
+        "053FE43C-4CB1-4F79-BC8E-B4E84CFBE8C1": 1.123675643923645e+27,
+        "e212dc2f-a3b0-4681-b278-8717d156916c": 1742205856569
+    },
+    "whitelistedUsers": {
+        "<@1256142302808903684>": {
+            "hwid": "e212dc2f-a3b0-4681-b278-8717d156916c",
+            "expirationTime": 1742205856569
+        }
+    }
 }
