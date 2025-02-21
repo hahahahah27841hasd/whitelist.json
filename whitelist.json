@@ -1,7 +1,7 @@
 {
-  "9D9QBEAV-m7f01na4-go-239dc821-c07b-4764-9a16-384d3f708f8e": {
-    "expireTime": 1740156755,
-    "timeString": "10 minutes",
-    "hwid": "239dc821-c07b-4764-9a16-384d3f708f8e"
+  "EXAMPLE-KEY-123456-abcdef": {
+    "expireTime": 1740000000,
+    "timeString": "7 days",
+    "hwid": "example-hwid-123"
   }
 }
