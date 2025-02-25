@@ -1,5 +1,9 @@
 {
-    "whitelisted": [],
+    "whitelisted": [
+        "239dc821-c07b-4764-9a16-384d3f708f8e"
+    ],
     "premium": [],
-    "expirations": {}
+    "expirations": {
+        "239dc821-c07b-4764-9a16-384d3f708f8e": 1740488806842
+    }
 }
