@@ -4,15 +4,15 @@
     ],
     "premium": [],
     "expirations": {
-        "C9B418FF-8402-4643-9F33-64621EABA426": 1740595314301
+        "C9B418FF-8402-4643-9F33-64621EABA426": 1740595554765
     },
     "userInfo": {
         "C9B418FF-8402-4643-9F33-64621EABA426": {
             "username": "<@1299685216633491477>",
             "whitelistedBy": "louisontop_69",
-            "whitelistDate": "2025-02-26T18:36:54.301Z",
-            "joinDate": "2025-02-26T18:36:54.301Z",
-            "expiryTimestamp": 1740595314301
+            "whitelistDate": "2025-02-26T18:40:54.765Z",
+            "joinDate": "2025-02-26T18:40:54.765Z",
+            "expiryTimestamp": 1740595554765
         }
     }
 }
