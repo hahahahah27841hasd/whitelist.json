@@ -1,11 +1,7 @@
 {
-    "whitelisted": [
-        "C9B418FF-8402-4643-9F33-64621EABA426"
-    ],
+    "whitelisted": [],
     "premium": [],
-    "expirations": {
-        "C9B418FF-8402-4643-9F33-64621EABA426": 1740595554765
-    },
+    "expirations": {},
     "userInfo": {
         "C9B418FF-8402-4643-9F33-64621EABA426": {
             "username": "<@1299685216633491477>",
