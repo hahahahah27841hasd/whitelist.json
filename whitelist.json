@@ -1,7 +1,11 @@
 {
-    "whitelisted": [],
+    "whitelisted": [
+        "0A86CBA8-4E29-4989-A495-007C972E0E5A"
+    ],
     "premium": [],
-    "expirations": {},
+    "expirations": {
+        "0A86CBA8-4E29-4989-A495-007C972E0E5A": 1997203696821
+    },
     "userInfo": {
         "C9B418FF-8402-4643-9F33-64621EABA426": {
             "username": "<@1299685216633491477>",
@@ -9,6 +13,13 @@
             "whitelistDate": "2025-02-26T18:40:54.765Z",
             "joinDate": "2025-02-26T18:40:54.765Z",
             "expiryTimestamp": 1740595554765
+        },
+        "0A86CBA8-4E29-4989-A495-007C972E0E5A": {
+            "username": "<@957554229927624704> wyfty9",
+            "whitelistedBy": "louisontop_69",
+            "whitelistDate": "2025-02-26T18:48:16.821Z",
+            "joinDate": "2025-02-26T18:48:16.821Z",
+            "expiryTimestamp": 1997203696821
         }
     }
 }
