@@ -1,1 +1,21 @@
-
+{
+    "whitelisted": [
+        "e212dc2f-a3b0-4681-b278-8717d156916c"
+    ],
+    "premium": [],
+    "expirations": {
+        "e212dc2f-a3b0-4681-b278-8717d156916c": 1997375120649
+    },
+    "userInfo": {
+        "e212dc2f-a3b0-4681-b278-8717d156916c": {
+            "username": "<@1256142302808903684>",
+            "whitelistedBy": "louisontop_69",
+            "whitelistDate": "2025-02-28T18:25:20.649Z",
+            "joinDate": "2025-02-28T18:25:20.652Z",
+            "expiryTimestamp": 1997375120649
+        }
+    },
+    "userHWIDs": {
+        "<@1256142302808903684>": "e212dc2f-a3b0-4681-b278-8717d156916c"
+    }
+}
