@@ -26,7 +26,12 @@
         "5D27D0DA-C137-4F7A-ADC9-635776CB23A6",
         "88ECB13D-AA84-42B2-BC18-2175CFA7CADF"
     ],
-    "blacklisted": [],
+    "blacklisted": [
+    "239dc821-c07b-4764-9a16-384d3f708f8e",
+    "x9y8z7w6v5u4t3s2r1q0p9o8n7m6l5k4",
+    "b6c7d8e9f0g1h2i3j4k5l6m7n8o9p0q1",
+    "f5g4h3i2j1k0l9m8n7o6p5q4r3s2t1u0"
+]
     "expirations": {
         "e212dc2f-a3b0-4681-b278-8717d156916c": 1997375457963,
         "1ACA4E35-BC06-45F4-B4D2-31CB318B396E": 1997376871036,
