@@ -26,12 +26,7 @@
         "5D27D0DA-C137-4F7A-ADC9-635776CB23A6",
         "88ECB13D-AA84-42B2-BC18-2175CFA7CADF"
     ],
-    "blacklisted": [
-    "239dc821-c07b-4764-9a16-384d3f708f8e",
-    "x9y8z7w6v5u4t3s2r1q0p9o8n7m6l5k4",
-    "b6c7d8e9f0g1h2i3j4k5l6m7n8o9p0q1",
-    "f5g4h3i2j1k0l9m8n7o6p5q4r3s2t1u0"
-]
+    "blacklisted": [],
     "expirations": {
         "e212dc2f-a3b0-4681-b278-8717d156916c": 1997375457963,
         "1ACA4E35-BC06-45F4-B4D2-31CB318B396E": 1997376871036,
@@ -47,7 +42,7 @@
         "963e7d3d-f0a1-4fb4-b7d3-4676adf7837f": 1997611798040,
         "E91E62BC-F178-4E74-A319-DAEC70568BDD": 1741631635800,
         "4BEE988D-3688-40BC-AC88-1E6E94FA4856": 1741634295728,
-        "15A4E9AF-47F4-4476-991A-765C90609407": 1997637658158,
+        "15A4E9AF-47F4-4476-991A-765C90609407": 1997704691998,
         "CFA24CC8-432D-4F5B-B981-03A17BBF1415": 1741635733250,
         "A3C2EF97-DE72-4372-8C5B-80E9D0001862": 1741636047649,
         "F7C20258-E538-446C-A460-6C8C240A0231": 1741638686298,
@@ -314,10 +309,10 @@
         },
         "15A4E9AF-47F4-4476-991A-765C90609407": {
             "username": "<@1239342273641316365>",
-            "whitelistedBy": "louisontop_69",
-            "whitelistDate": "2025-03-03T19:20:58.158Z",
+            "whitelistedBy": "7eleven.nex",
+            "whitelistDate": "2025-03-04T13:58:11.998Z",
             "joinDate": "2025-03-03T19:20:58.158Z",
-            "expiryTimestamp": 1997637658158
+            "expiryTimestamp": 1997704691998
         },
         "s": {
             "username": "s",
