@@ -7,7 +7,8 @@
         "9AF2A6F0-41D7-482F-8D3C-DA033AC31D33",
         "1645822B-0FE4-4DBD-BDBC-A3568AF1D468",
         "CFA24CC8-432D-4F5B-B981-03A17BBF1415",
-        "FD0B3118-3208-4F2F-9243-CBC9E40A6966"
+        "FD0B3118-3208-4F2F-9243-CBC9E40A6966",
+        "1a86b061-75b2-409a-921d-2b2b9fa3eb96  7eleven  used  whitelist"
     ],
     "premium": [],
     "expirations": {
@@ -18,7 +19,8 @@
         "9AF2A6F0-41D7-482F-8D3C-DA033AC31D33": 1997901827857,
         "1645822B-0FE4-4DBD-BDBC-A3568AF1D468": 1742589858363,
         "CFA24CC8-432D-4F5B-B981-03A17BBF1415": 1997901874737,
-        "FD0B3118-3208-4F2F-9243-CBC9E40A6966": 1997901894139
+        "FD0B3118-3208-4F2F-9243-CBC9E40A6966": 1997901894139,
+        "1a86b061-75b2-409a-921d-2b2b9fa3eb96  7eleven  used  whitelist": 1741553116843
     },
     "userInfo": {
         "5e1b23b8-1354-4f91-a37a-e8655aaf7d54": {
@@ -76,6 +78,13 @@
             "whitelistDate": "2025-03-06T20:44:54.139Z",
             "joinDate": "2025-03-06T20:44:54.139Z",
             "expiryTimestamp": 1997901894139
+        },
+        "1a86b061-75b2-409a-921d-2b2b9fa3eb96  7eleven  used  whitelist": {
+            "username": "<@1055386983523958815>",
+            "whitelistedBy": "7eleven.nex",
+            "whitelistDate": "2025-03-06T20:45:16.843Z",
+            "joinDate": "2025-03-06T20:45:16.843Z",
+            "expiryTimestamp": 1741553116843
         }
     },
     "userHWIDs": {
@@ -86,6 +95,7 @@
         "<@1066259281147596890>": "9AF2A6F0-41D7-482F-8D3C-DA033AC31D33",
         "<@1198799819695738953>": "1645822B-0FE4-4DBD-BDBC-A3568AF1D468",
         "<@1262373888072089732>": "CFA24CC8-432D-4F5B-B981-03A17BBF1415",
-        "<@1267832647212597258>": "FD0B3118-3208-4F2F-9243-CBC9E40A6966"
+        "<@1267832647212597258>": "FD0B3118-3208-4F2F-9243-CBC9E40A6966",
+        "<@1055386983523958815>": "1a86b061-75b2-409a-921d-2b2b9fa3eb96  7eleven  used  whitelist"
     }
 }
