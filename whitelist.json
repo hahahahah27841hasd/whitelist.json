@@ -1,11 +1,7 @@
 {
-    "whitelisted": [
-        "s"
-    ],
+    "whitelisted": [],
     "premium": [],
-    "expirations": {
-        "s": 1741380311124
-    },
+    "expirations": {},
     "userInfo": {
         "s": {
             "username": "s",
@@ -15,7 +11,5 @@
             "expiryTimestamp": 1741380311124
         }
     },
-    "userHWIDs": {
-        "s": "s"
-    }
+    "userHWIDs": {}
 }
