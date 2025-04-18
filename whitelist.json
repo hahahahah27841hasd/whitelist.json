@@ -120,7 +120,7 @@
         "26BF9C7B-D9F5-4339-8A05-ECD13051194D": 1745062802789,
         "3C3F8AD3-6F3D-4DE2-9449-A2E08DFE5ACC": 2001589696528,
         "d4305ef4-fc73-4d62-ba9d-5c089dba08ad": 2001597151216,
-        "EA53201F-55F0-4C24-BF8B-9764E0DAC677": 2001599037922
+        "EA53201F-55F0-4C24-BF8B-9764E0DAC677": 2001599040979
     },
     "userInfo": {
         "1397AA9E-6F0E-41BC-8EF8-0F02F8A86405": {
@@ -636,10 +636,10 @@
         },
         "EA53201F-55F0-4C24-BF8B-9764E0DAC677": {
             "username": "<@1312030344177778748>",
-            "whitelistedBy": "7eleven.nex",
-            "whitelistDate": "2025-04-18T15:43:57.922Z",
+            "whitelistedBy": "cold.nex",
+            "whitelistDate": "2025-04-18T15:44:00.979Z",
             "joinDate": "2025-04-18T15:43:57.922Z",
-            "expiryTimestamp": 2001599037922
+            "expiryTimestamp": 2001599040979
         }
     },
     "userHWIDs": {
