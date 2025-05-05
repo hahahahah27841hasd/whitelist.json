@@ -2,12 +2,7 @@
   "whitelisted": [
     "asds"
   ],
-  "blacklisted": [
-    {
-      "hwid": "hahahah",
-      "reason": "asdasda"
-    }
-  ],
+  "blacklisted": [],
   "expirations": {
     "asds": "30 days"
   }
