@@ -1,1 +1,9 @@
-
+{
+  "whitelisted": [
+    "asds"
+  ],
+  "blacklisted": [],
+  "expirations": {
+    "asds": "30 days"
+  }
+}
