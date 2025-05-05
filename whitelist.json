@@ -3,7 +3,12 @@
     "asds",
     "dsd"
   ],
-  "blacklisted": [],
+  "blacklisted": [
+    {
+      "hwid": "asdasd",
+      "reason": "asd"
+    }
+  ],
   "expirations": {
     "asds": "30 days",
     "dsd": "30 days"
