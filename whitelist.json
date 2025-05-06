@@ -1,7 +1,10 @@
 {
   "whitelisted": [
-    "ab286a48-9c13-4b2b-8765-ba6b1b418411": 2002816535823,
-    "du negga wenn du das siehst": "30 days"
+    "asdasd"
+  ],
+  "blacklisted": [],
+  "expirations": {
+    "asdasd": "30 days"
   },
-  "executionCount": 6
+  "executionCount": 0
 }
