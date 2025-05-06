@@ -1,6 +1,10 @@
 {
-  "whitelisted": [],
+  "whitelisted": [
+    "TEST"
+  ],
   "blacklisted": [],
-  "expirations": {},
+  "expirations": {
+    "TEST": "30 days"
+  },
   "executionCount": 0
 }
