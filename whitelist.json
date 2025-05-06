@@ -1,12 +1,14 @@
 {
   "whitelisted": [
     "TEST",
-    "shshsha"
+    "shshsha",
+    "ss"
   ],
   "blacklisted": [],
   "expirations": {
     "TEST": "30 days",
-    "shshsha": "30 days"
+    "shshsha": "30 days",
+    "ss": "30 days"
   },
   "executionCount": 0
 }
