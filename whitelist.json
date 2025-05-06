@@ -1,10 +1,6 @@
 {
-  "whitelisted": [
-    "asdasd"
-  ],
+  "whitelisted": [],
   "blacklisted": [],
-  "expirations": {
-    "asdasd": "30 days"
-  },
+  "expirations": {},
   "executionCount": 0
 }
