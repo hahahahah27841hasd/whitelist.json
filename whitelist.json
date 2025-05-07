@@ -1,11 +1,15 @@
 {
-  "whitelisted": [],
+  "whitelisted": [
+    "040e53e6-4a0b-4c97-b20c-f022f8fff660"
+  ],
   "blacklisted": [
     {
       "hwid": "yxyxyx",
       "reason": "yxyx"
     }
   ],
-  "expirations": {},
+  "expirations": {
+    "040e53e6-4a0b-4c97-b20c-f022f8fff660": 1749230289480
+  },
   "executionCount": 0
 }
