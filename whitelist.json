@@ -2,7 +2,8 @@
   "whitelisted": [
     "TEST",
     "shshsha",
-    "ss"
+    "ss",
+    "s"
   ],
   "blacklisted": [
     {
@@ -13,7 +14,8 @@
   "expirations": {
     "TEST": "30 days",
     "shshsha": "30 days",
-    "ss": "30 days"
+    "ss": "30 days",
+    "s": 1746717206489
   },
   "executionCount": 0
 }
