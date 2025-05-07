@@ -1,15 +1,11 @@
 {
-  "whitelisted": [
-    "ss"
-  ],
+  "whitelisted": [],
   "blacklisted": [
     {
       "hwid": "yxyxyx",
       "reason": "yxyx"
     }
   ],
-  "expirations": {
-    "ss": "30 days"
-  },
+  "expirations": {},
   "executionCount": 0
 }
