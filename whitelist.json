@@ -5,10 +5,6 @@
   ],
   "blacklisted": [
     {
-      "hwid": "yxyxyx",
-      "reason": "yxyx"
-    },
-    {
       "hwid": "040e53e6-4a0b-4c97-b20c-f022f8fff660",
       "reason": "You are not him"
     }
