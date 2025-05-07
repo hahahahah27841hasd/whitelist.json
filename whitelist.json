@@ -1,7 +1,6 @@
 {
   "whitelisted": [
-    "ss",
-    "s"
+    "ss"
   ],
   "blacklisted": [
     {
@@ -10,8 +9,7 @@
     }
   ],
   "expirations": {
-    "ss": "30 days",
-    "s": 1746717206489
+    "ss": "30 days"
   },
   "executionCount": 0
 }
