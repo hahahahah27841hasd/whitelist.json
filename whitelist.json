@@ -39,7 +39,7 @@
   "blacklisted": [
     {
       "hwid": "TEST!",
-      "reason": "asdq"
+      "reason": "s"
     }
   ],
   "expirations": {
